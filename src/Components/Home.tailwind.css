@@ -1,0 +1,3 @@
+.btn-homepage {
+    @apply rounded-3xl py-3 px-5 font-semibold
+}
